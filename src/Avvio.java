@@ -12,7 +12,7 @@ public class Avvio
 		try
 		{
 			faiCalcolo();
-		}catch(RuntimeException e)
+		}catch(Exception e)
 		{
 			e.printStackTrace();
 		}
